@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Avocadocs</h1>
-[![Zahkthar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahkthar&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">A Python and Maps developer</h3>
 
 - 🔭 I’m currently working on [Cosmos](https://github.com/Avocadocs/cosmos)
