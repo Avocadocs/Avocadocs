@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avocadocs</h1>
 <h3 align="center">A Python and Maps developer</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avocadocs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avocadocs)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [Cosmos](https://github.com/Avocadocs/cosmos)
 
